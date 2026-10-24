@@ -1,0 +1,9 @@
+Package: com.lumabar.tweak
+Name: LumaBar
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Description: Customize the Home Bar and bind gestures on it to system actions.
+Maintainer: LumaBar Developer
+Author: LumaBar Developer
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
